@@ -925,6 +925,23 @@ p.titulo-location{
     .footer-abajo{
         margin-top: 1rem;
     }
+    .input-footer-abajo{
+        min-width: 200px;
+    }
+}
+@media (max-width:350px){
+    .input-footer-abajo input{
+        max-width: 150px;
+        min-width: 105px;
+        font-size: 15px;
+    }
+    .input-footer-abajo a{
+        font-size: 15px;
+        padding: 11px 8px;
+    }
+    .input-footer-abajo input::placeholder{
+        font-size: 15px;
+    }
 }
 .final-footer-abajo{
     border-top: 1px solid rgb(110, 110, 110);
