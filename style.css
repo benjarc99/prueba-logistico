@@ -140,7 +140,7 @@ ul.lista-nav-abajo{
 .main-inicial{
     height: 690px;
     width: 100%;
-    background: url(/Prueba\ HTML-CSS/img/banner.png);
+    background: url(img/banner.png);
     background-color: rgba(11,39,65, 0.6);
     background-size: cover;
     background-blend-mode: multiply;
@@ -323,7 +323,7 @@ ul.lista-nav-abajo{
 .main-cuatro-contacto{
     width: 100%;
     padding: 119px 0;
-    background: url(/Prueba\ HTML-CSS/img/contact_bg.png);
+    background: url(img/contact_bg.png);
     background-color: rgba(11,39,65, 0.8);
     background-size: cover;
     background-blend-mode: multiply;
@@ -511,7 +511,7 @@ p.letra-grande{
 .contenedor-main-seis{
     height: 250px;
     width: 59%;
-    background: url(/Prueba\ HTML-CSS/img/0ffcan.png);
+    background: url(img/0ffcan.png);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -546,7 +546,7 @@ p.letra-grande{
 .main-siete-opinion{
     height: 700px;
     width: 100%;
-    background: url(/Prueba\ HTML-CSS/img/testmonial0.png);
+    background: url(img/testmonial0.png);
     background-size: cover;
     background-position: center;
     color: rgba(11,39,65);
@@ -596,7 +596,7 @@ p.letra-grande{
 }
 .main-ocho-estimate{
     width: 100%;
-    background: url(/Prueba\ HTML-CSS/img/Estimate_bg.png);
+    background: url(img/Estimate_bg.png);
     background-color: rgba(11,39,65);
     background-size: cover;
     background-blend-mode: multiply;
