@@ -799,14 +799,6 @@ p.titulo-location{
 .titulo-location img{
     margin-right: 5px;
 }
-@media (max-width:1200px){
-    .contenedor-columnas-footer{
-        flex-wrap: wrap;
-    }
-    .columnas-footer-abajo{
-        margin-right: 1rem;
-    }
-}
 @media (max-width:1000px){
     .footer-arriba-derecha{
         flex-wrap: wrap;
@@ -904,6 +896,14 @@ p.titulo-location{
 .input-footer-abajo a:hover{
     color: white;
 }
+@media (max-width:1200px){
+    .contenedor-columnas-footer{
+        flex-wrap: wrap;
+    }
+    .columnas-footer-abajo{
+        margin-right: 1rem;
+    }
+}
 @media (max-width:700px){
     .contenedor-columnas-footer{
         flex-direction: column;
@@ -913,6 +913,9 @@ p.titulo-location{
     }
     .columnas-footer-abajo h3{
         margin-bottom: 1rem;
+    }
+    .columnas-footer-abajo{
+        margin-right: 0px;
     }
 }
 @media (max-width:550px){
