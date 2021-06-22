@@ -116,7 +116,7 @@ ul.lista-nav-abajo{
         margin-right: 2rem;
     }
 }
-@media (max-width:910px){
+@media (max-width:920px){
     .nav-abajo{
         display: none;
     }
